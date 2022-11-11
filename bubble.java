@@ -1,6 +1,6 @@
 class bubble{
     public static void main(String[] args) {
-        //-------binary sort-------- 
+        //-------bubble sort-------- 
         //Scanner sc=new Scanner(System.in);
         int[] arr;
         arr= new int[]{13,32,26,35,10};
